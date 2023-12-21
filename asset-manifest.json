@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/React-Movies/static/js/main.8a67f532.chunk.js",
+    "main.js.map": "/React-Movies/static/js/main.8a67f532.chunk.js.map",
+    "runtime-main.js": "/React-Movies/static/js/runtime-main.1a099216.js",
+    "runtime-main.js.map": "/React-Movies/static/js/runtime-main.1a099216.js.map",
+    "static/js/2.6db96fc6.chunk.js": "/React-Movies/static/js/2.6db96fc6.chunk.js",
+    "static/js/2.6db96fc6.chunk.js.map": "/React-Movies/static/js/2.6db96fc6.chunk.js.map",
+    "index.html": "/React-Movies/index.html",
+    "static/js/2.6db96fc6.chunk.js.LICENSE.txt": "/React-Movies/static/js/2.6db96fc6.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/React-Movies/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.42955eb6.svg": "/React-Movies/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/React-Movies/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/React-Movies/static/media/tmdb_logo.f15b6632.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a099216.js",
+    "static/js/2.6db96fc6.chunk.js",
+    "static/js/main.8a67f532.chunk.js"
+  ]
+}
